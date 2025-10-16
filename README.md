@@ -1,16 +1,31 @@
-## Hi there 👋
+###### ~ ❯ fastfetch
 
-<!--
-**gagepgh/gagepgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                                                  ┌─────────────────────Languages─────────────────────┐
+                    ╓▄@▄                          │ ├: LuaU (Since 2020) [Skillful]
+                   ╫████▌                         │ ├: Python 3 (Since 2025) [Beginner]
+                  ▓██████▌@▄╖__                   └ └󰓡: C# (Soon)
+                 ▐██████▀███████▄___              └────────────────────────────────────────────────────┘
+                √██████████████████▀█▓▒▒▒▒       
+                ███▓██████████████▓▓▓▓▓Ñ         ┌──────────────────────Projects──────────────────────┐
+               j██████▓██████████▓▓▒█▓           │ ├󰘬: All Roblox Projects: Insert Link
+               j█████▒████▓█████▓▓▓█╜            │ ├󰘬: All OpenSource Projects: Insert Link
+               ▐▓████████▌███▓█▒▒▓▓Ñ             └ └: Other Projects: Insert Link
+               ╫█▓▓▓▓▓███▓▓▓▄███]▓               └────────────────────────────────────────────────────┘
+               ╟██▓▓▓▒▓▒██▒▓█▓██▓▓µ               
+               ▓██████▄▄▓▒▄▄▓▓▓▓▒▓▓▒.            ┌──────────────────────Ambitions─────────────────────┐
+               ]▓▓▓████████▓▓▓▒▒▓▓▓▒▒m           │ ├󰘬: Learn Python, Java, C#, C++ then go from there
+                ██▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█▓▒▒▒          │ ├󰘬: Solve 1000 leetcode problems in under a year
+                `▓▓▓▓▓▓▒▓▓▓▓▀▀▀▓▓██▓▓▒▒L         │ ├󰘬: Win a coding competition
+                 ███▓▓▓▓▓▓▒▒▄▄▒▓███▓▓▓▒▒▒        │ ├󰘬: Reach 200wpm
+                 ▐████▓▓▓███▀▀█████▓▓▒▓▓▓▒       │ ├󰘬: Learn Vim or atleast Vim motions
+                 j████████▓▓▒▓███▓▓▓▓▓▓▓▒▓▒      └ └: Get Bachelor Degree in SE (2030)
+                  ██▓███████████▓▓▓▓▓██▓▓▓▓L     └────────────────────────────────────────────────────┘
+                  ╟██████▓▓▓▓▓▓▓▓▓▓▓▓██▓▓▓▓▒     
+                   ██████████████▓▓▓▓▓▓▓▓▓▓▒      ┌────────────────────Uptime / Age────────────────────┐
+                 ╓█████████▓▓▓████████████▓L      󱦟 Started:      October 14th 2025
+                j▓██████████▓▓████████████▀       󱦟 Last Updated: October 15th 2025
+                  `╙▀██▓▓▓█▓Ñ   ╙▀▀▀▀▀▀╙          └────────────────────────────────────────────────────┘
+                      `╙"╙`
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                      
